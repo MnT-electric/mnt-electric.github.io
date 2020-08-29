@@ -1,0 +1,41 @@
+<section id="testimonials">
+  <div class="container">
+    <div class="row"><br>
+
+      <div class="col-lg-12 text-center">
+        <h2>Testimonials</h2>
+        <hr class="star-primary">
+
+        <p style="font-size:23px"> Here's What Our Customers Are Saying <p/>
+          <br><br>
+
+
+
+
+          <div id="google-reviews"></div>
+         <link rel="stylesheet" href="https://cdn.rawgit.com/stevenmonson/googleReviews/master/google-places.css">
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+         <script src="https://cdn.jsdelivr.net/gh/stevenmonson/googleReviews@6e8f0d794393ec657dab69eb1421f3a60add23ef/google-places.js"></script>
+         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyArQsR6YfHQNaoh-M0jv4VPt__nGB4yFYw&signed_in=true&libraries=places"></script>
+
+         <script>
+         jQuery(document).ready(function( $ ) {
+            $("#google-reviews").googlePlaces({
+                 placeId: 'ChIJO4_ole8L9YgRaxTCeXpRQeM' //Find placeID @: https://developers.google.com/places/place-id
+               , render: ['reviews']
+               , min_rating: 4
+               , max_rows:4
+            });
+         });
+         </script>
+
+
+         <p style="font-size:23px"> <a
+ href="https://www.google.com/search?client=firefox-b-1-d&q=M%26T+electric#lrd=0x88f50bef95e88f3b:0xe341517a79c2146b,1,,,">See all our Google Reviews</a></p>
+<br>
+<p style="font-size:21px">
+     <a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fapi%2Fjs%2FReviewsService.CrossOriginAuthSuccess%3Fpb%3D!1shttps%253A%252F%252Fwww.google.com&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin">
+       or write a review</a></p>
+      </div><br><br>
+    </div>
+<section>
