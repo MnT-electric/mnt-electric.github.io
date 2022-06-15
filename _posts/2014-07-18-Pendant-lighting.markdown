@@ -15,4 +15,4 @@ With the right lighting, you can highlight your kitchen's _best features_ while 
 
 In this project statement pendant lighting make the kitchen feel
 more intimate and homey. We can provide you with all the ideas, logistics,
-creativity, and functionality that you desire. [Contact](tel:+14046677970) *M&T electric* today to discuss your lightning and upgrading ideas for your space.
+creativity, and functionality that you desire. [Contact](tel:+14046677970) *MP electric* today to discuss your lightning and upgrading ideas for your space.
